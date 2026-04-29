@@ -40,3 +40,6 @@ Part two: underground/dirt tunnels, medium level, has some difficulty, bosses ar
 Part three: flesh tunnels, difficult level, bosses now do almost all the players HP haustoria is the only way to get chlorophyll and water, day night cycle is perma-night. Parkour requires advanced movement tech and hints are introduced when saving.
 
 Main boss Dragonfly 2 times bigger than the burrowing worm 
+
+Each person's part:
+Sam is the artist, in charge of making sprites, levels, etc. Zach is the coder in charge of making the code for the game, Arjun is responsible for file management, readme updates, and github commits.
