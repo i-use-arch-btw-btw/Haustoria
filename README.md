@@ -1,8 +1,7 @@
 # Haustoria
 game
-Hetcorry@gmail.com
 
-‘ ‘Daikon game’ Haustoria Respiration Apparatus (Haustorium in Skotoperiod)
+‘Daikon game’ Haustoria Respiration Apparatus (Haustorium in Skotoperiod)
 
 a kind of simple silly/cute 'horror' game, only scary in the sense that the artist will not willingly draw anything cute in a happy setting.
 
