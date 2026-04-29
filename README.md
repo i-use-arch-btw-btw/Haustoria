@@ -5,6 +5,7 @@ game
 
 a kind of simple silly/cute 'horror' game, only scary in the sense that the artist will not willingly draw anything cute in a happy setting.
 
+![Alt text](pixil-frame-0.png)
 
 
 Necessary: 
