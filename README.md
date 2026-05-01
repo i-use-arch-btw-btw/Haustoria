@@ -6,6 +6,9 @@ game
 a kind of simple silly/cute 'horror' game, only scary in the sense that the artist will not willingly draw anything cute in a happy setting.
 
 <img src="pixil-frame-0.png" alt="bug #1" width="300">
+<img src="player_default.png" alt="bug #1" width="300">
+<img src="player_with_big_arms.png" alt="bug #1" width="300">
+<img src="dragon_fly.png" alt="bug #1" width="300">
 
 
 Necessary: 
